@@ -1,4 +1,4 @@
-# Stopping Time
+# Phoenix Role
 This gamemode adds a NEW role to among us called the Phoenix! After reviving himself, he can bring back 1 ghost, kill 1 person (but if it's an impostor he gets another kill), and reveal his name for 5 seconds! Be careful though, these abilitys last one use and can easily get you caught by an impostor. Why is it bad for people to know who the phoenix is? The impostor can come take your role away and forever have it gone!
 WARNING: MAKE SURE YOU HAVE AMONG US 2020.12.9s
 
