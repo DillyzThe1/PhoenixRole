@@ -1,7 +1,9 @@
 # IMPORTANT NOTICE
-THIS MOD IS SUPER OLD AND IS BEING REMADE FROM THE GROUND UP IN LATEST BUILDS OF THE GAME.<br>
-PLEASE CHECK OUT MY DRAPI-MOD-MANAGER PROGRAM WHEN IT RELEASES TO EASILY INSTALL!!<br>
-THIS SECTION WILL BE UPDATED SHORTLY BEFORE ARCHIVAL WITH A LINK TO THE MOD MANAGER'S INSTALLER.
+THIS VERSION OF THE MOD IS SUPER OUT OF DATE AND HAS BEEN REMADE FROM THE GROUND UP!<br>
+YOU SHOULD USE THE BRAND NEW MOD MANAGER!<br>
+(The remake is inside of DillyzLegacyPack)<br>
+https://github.com/DillyzThe1/DRAPI-Mod-Manager#installation
+
 # Phoenix Role
 This gamemode adds a NEW role to among us called the Phoenix! After reviving himself, he can bring back 1 ghost, kill 1 person (but if it's an impostor he gets another kill), and reveal his name for 5 seconds! Be careful though, these abilitys last one use and can easily get you caught by an impostor. Why is it bad for people to know who the phoenix is? The impostor can come take your role away and forever have it gone!
 WARNING: MAKE SURE YOU HAVE AMONG US 2020.12.9s
